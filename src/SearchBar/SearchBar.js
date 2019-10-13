@@ -18,7 +18,7 @@ export function SearchBar() {
                     <input className={`input is-medium ${styles['input-control']}`} type="text" placeholder="Where"/>
                 </p>
                 <div className={`button is-medium ${styles['search-button']}`}>
-                    <span className="icon is-small"><i className="fas fa-search"></i></span>
+                    <span className={`icon is-small ${styles['search-icon']}`}><i className="fas fa-search"></i></span>
                 </div>
             </div>
         </div>
