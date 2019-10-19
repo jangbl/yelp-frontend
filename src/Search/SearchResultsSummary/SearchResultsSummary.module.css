@@ -1,0 +1,35 @@
+.search-summary {
+    padding: 1.5rem 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-summary p {
+    font-size: .9rem;
+}
+
+.search-summary h1:global(.subtitle) {
+    margin-bottom: 0;
+}
+
+.container {
+    background: rgb(245, 245, 245);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: rgb(230, 230, 230);
+}
+
+.container > * {
+    max-width: 1100px;
+}
+
+.filters {
+    display: flex;
+    width: 100%;
+}
+
+.filters > * {
+    margin-right: .7rem;
+}
