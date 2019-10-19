@@ -8,7 +8,7 @@ export function Search() {
         <div>
             <NavBar/>
             <SubNav/>
-            <SearchResultsSummary term='burgers' location='berlin'/>
+            <SearchResultsSummary />
         </div>
     );
 }
