@@ -1,5 +1,5 @@
 # 1 About
-This repository contains the source code for the **Build Yelp in React | React Hooks Tutorial** provided by [productioncoder.com](https://www.youtube.com/watch?v=8asNYp7koRg).
+This repository contains the source code for the **[Build Yelp in React | React Hooks Tutorial](https://www.youtube.com/watch?v=8asNYp7koRg)** provided by [productioncoder.com](https://productioncoder.com).
 
 Sign up for [this email list](https://productioncoder.com/you-decide-what-we-build-next/) so you get a vote in what we will publish next.
 
