@@ -22,7 +22,7 @@ The application uses real data by leveraging the [Yelp Fusion API](https://www.y
 * This app uses the [CORS Anywhere](https://github.com/Rob--W/cors-anywhere/#documentation) because the [Yelp Fusion REST API](https://www.yelp.com/developers/documentation/v3) is meant for server to server communication and does not support [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 * For the sake of the tutorial, we decided to proxy all request through [CORS Anywhere](https://github.com/Rob--W/cors-anywhere/#documentation) so we can focus on building the frontend part of the application.
 * **You should not run this in production because you would expose a `Bearer token` on the client side**. We only did this so that this tutorial can focus on the frontend. Later on we might develop a server for this application as well if people express enough interest.
-* **DO NOT commit your bearer token to source control if you work on a public repository.**
+* **DO NOT commit your bearer token to source control if you work on a public repository**.
 
 # 5. How to run this Application
 This application looks pretty much the same like the original [Yelp](https://www.yelp.com) website.
@@ -57,4 +57,3 @@ This project is **solely intended for educational purposes** and is created unde
 It is **not intended to create any kind of Yelp competitor**, but to teach advanced concepts in frontend development.
 
 Just see it a nice educational project that will help you to improve your coding skills.
-
