@@ -5,6 +5,8 @@ Sign up for [this email list](https://productioncoder.com/you-decide-what-we-bui
 
 For updates please follow [@productioncoder](https://twitter.com/productioncoder) on Twitter.
 
+<h3 align="center">Please help this repo with a ⭐️ if you find it useful! 😁</h3>
+
 # 2. Demo
 **[Please check out the videos on Youtube](https://www.youtube.com/watch?v=8asNYp7koRg)**
 
