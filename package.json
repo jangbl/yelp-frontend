@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bulma": "^0.8.0",
-    "query-string": "^6.11.0",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "react-rating": "^2.0.4",
+    "bulma": "^0.8.2",
+    "query-string": "^6.12.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-rating": "^2.0.5",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.0",
+    "react-scripts": "3.4.1",
     "use-react-router": "^1.0.7"
   },
   "scripts": {
