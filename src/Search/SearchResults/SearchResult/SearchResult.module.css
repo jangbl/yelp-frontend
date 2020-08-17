@@ -1,24 +1,24 @@
 .search-result {
-    display: flex;
-    max-width: 1100px;
-    width: 100%;
+  display: flex;
+  max-width: 1135px;
+  width: 100%;
 }
 
 .business-image {
-    width: 210px;
-    height: 210px;
-    border-radius: 4px;
-    margin-right: 1rem;
+  width: 210px;
+  height: 210px;
+  border-radius: 4px;
+  margin-right: 1rem;
 }
 
 .business-info {
-    min-width: 400px;
+  min-width: 400px;
 }
 
 .contact-info p {
-    font-size: .85rem;
+  font-size: 0.85rem;
 }
 
 :global(.tag).business-tag {
-    margin-right: 4px;
+  margin-right: 4px;
 }
