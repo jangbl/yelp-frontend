@@ -10,7 +10,7 @@ export function useBusinessSearch(term, location) {
         setBusinesses([]);
         const fetchData = async () => {
             try {
-                const rawData = await api.get('/businesses/search', searchParams);
+                const rawData = await api.get('/search', searchParams);
                 const resp = await rawData.json();
                 setBusinesses(resp.businesses);
                 setAmountResults(resp.total);
