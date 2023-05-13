@@ -3,7 +3,7 @@ This repository contains the source code for the **[Build Yelp in React | React 
 
 Sign up for [this email list](https://productioncoder.com/you-decide-what-we-build-next/) so you get a vote in what we will publish next.
 
-For updates please follow [@productioncoder](https://twitter.com/productioncoder) on Twitter.
+For updates please follow [@_jgoebel](https://twitter.com/_jgoebel) on Twitter.
 
 <h3 align="center">Please help this repo with a ⭐️ if you find it useful! 😁</h3>
 
